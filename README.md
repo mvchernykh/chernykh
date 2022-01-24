@@ -1,2 +1,0 @@
-# chernykh
-my first repo
